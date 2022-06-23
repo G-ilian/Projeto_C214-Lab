@@ -88,6 +88,7 @@ python manage.py runserver
 ```
 python manage.py test
 ```
+Apresentação do projeto: https://youtu.be/TvK1jGL_i2g 
 
 ## :gear: Autor
 
